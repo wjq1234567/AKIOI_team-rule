@@ -2,3 +2,7 @@
 2. [积分规则](https://www.luogu.com.cn/paste/zauz0hge)
 3. [黑名单规则](https://www.luogu.com.cn/paste/g9p35yh2)
 4. [管理高层会议规定](https://www.luogu.com.cn/paste/yiwnc21t)
+
+------------------------------------------
+
+<center>目前网站维护中，维护者：wjq1234567</center>
